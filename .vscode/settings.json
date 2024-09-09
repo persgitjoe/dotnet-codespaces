@@ -1,3 +1,5 @@
 {
-    "dotnet.defaultSolution": "SampleApp/SampleApp.sln"
+    "dotnet.defaultSolution": "SampleApp/SampleApp.sln",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f87dc891-9168-4636-82aa-fc9b9a934556/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/codespacesnet",
+    "appService.deploySubpath": "."
 }
